@@ -1,6 +1,7 @@
 # React Note Taking App
 
-![logo-color](https://github.com/wasim0009/NoteTakingApp/assets/117257818/17747ca8-987f-4431-b8e6-f6485a2351c6)
+![logo-color](https://github.com/wasim0009/NoteTakingApp/assets/117257818/96bd180b-9083-4bcf-9b74-b18ca7204342)
+
 
 
 Welcome to our React-based Note Taking App! This project was bootstrapped with [Create React App](https://create-react-app.dev/), providing a solid foundation for building modern and efficient React applications.
