@@ -1,6 +1,7 @@
 # React Note Taking App
 
-![logo-color](https://github.com/wasim0009/NoteTakingApp/assets/117257818/96bd180b-9083-4bcf-9b74-b18ca7204342)
+![NoteTakingApp SS](https://github.com/wasim0009/NoteTakingApp/assets/117257818/c690fe20-69c7-4344-b55e-08d9947df9fe)
+
 
 
 
